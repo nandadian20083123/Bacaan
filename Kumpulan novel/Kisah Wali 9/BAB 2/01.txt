@@ -1,0 +1,65 @@
+LightNotepad v1.86 (2.4.2012)
+Made by:Petri Kultanen
+www.petnetti.net/lightnotepad/
+
+Help:
+
+Options:
+Full screen toggle = Hide Status panel.
+Word Wrap toggle = Break lines at right margin.
+Screen Orientation toggle = Swap between landscape and portrait screen mode.
+
+New:
+All new documents will be saved as ASCII files.
+
+Load:
+You can load ASCII and 16 bit Unicode files.
+UTF-8 encoded files aren't shown correctly.
+Files can be loaded from phone memory or memory card.
+
+File size is limited to 200k. If you load bigger files, they are opened in read-only mode.
+If you try to load too large file, you will run out of memory and application will be closed.
+
+Save:
+You can save files to phone memory and memory card.
+If your document is never saved, you must use Menu->File->Save As... to define file name and save path.
+If your file is loaded as Unicode, then it will be saved also in Unicode.
+New documents will be saved in ASCII.
+Program makes backup copy of your text every 4 minutes, it is saved in protected directory of your phone, and no other program has access to it. Your phone has to have 200k free space to use this function.
+Use Menu->File->Save to quickly save changes.
+
+Copy/Paste:
+You can copy and paste text with phone pen key(Or # key in newer models).
+You can select text by holding pen key down and moving cursor.
+You can also select whole text from Menu->Edit->Select all.
+When some text is selected, you can copy it holding pen-key down, and pressing left soft key.
+
+Bookmarks:
+You can set one bookmark to your document.
+Bookmark information is saved to program, not to your document.
+Only last 25 files bookmarks are reserved.
+So if you set bookmark to more than 25 files, the oldest bookmark is forgotten.
+You can't set bookmark if file is not saved.
+
+Converting:
+When you use convert from Unicode to ASCII function, you will lose all special characters, when you save file to disk.
+Changes will become visible when you load file next time.
+
+Short cuts for qwerty keyboards:
+Ctrl + A  = Select all
+Ctrl + C  = Copy
+Ctrl + X  = Cut
+Ctrl + V  = Paste
+Ctrl + N Or Ctrl + J  = Find next
+Ctrl + K  = Page up
+Ctrl + M  = Page down
+Ctrl + S  = Save
+Ctrl + O = Open
+Ctrl + E = Find
+Ctrl + G = Show File name and path
+Green Answer/yes key = Page Up
+
+English and Finnish translations: Petri Kultanen
+Italy translation: Mario Barbuto
+Spanish translation: Xavier Ciscar
+German translation: Torsten Brand

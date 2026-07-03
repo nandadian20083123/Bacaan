@@ -1,0 +1,122 @@
+Sebagian besar file yang ada di pusatgratis ini berada di server rapidshare yang merupakan server file hosting terbesar dan terpopuler di dunia. Rapidshare
+menyediakan account premium sekaligus memungkinkan account free user untuk mendownload file yang ada.
+
+Jika anda mempunyai account premium rapidshare tidaklah menjadi masalah untuk mendownload berbagai macam file yang anda inginkan. Namun jika anda tidak
+memiliki account premium atau dalam artian anda mendownload sebagai  free user, maka anda akan mengalami berbagai macam batasan dalam mendownload file
+dari rapidshare antara lain anda hanya diperbolehkan mendownload satu file dalam jangka waktu tertentu, anda harus menunggu beberapa detik (waiting time)
+sebelum download button ditampilkan serta batasan kecepatan download. 
+
+Namun batasan rapidshare tersebut ternyata bisa kita hindari jika kita mengerti bagaimana trik download dan trik mengakali rapidshare. Untuk mempermudah
+dan menambah kenyamanan bagi anda yang ingin mendownload file di pusatgratis yang berasal dari rapidshare, maka berikut ini kami tunjukkan trik download
+dan mengakali rapidshare yang telah kami temukan dari banyak sumber agar proses download anda menjadi cepat dan nyaman :
+
+1. Mempercepat download rapidshare Menggunakan Situs Rapidshare leecher
+
+Cara termudah mendownload dari rapidshare adalah dengan menggunakan situs – situs rapidshare leecher. Dengan menggunakan situs rapidshare leecher ini anda
+akan bisa mendownload layaknya premium user. Anda hanya perlu mencopy link download rapidshare anda di kolom yang telah disediakan dan klik tombol download
+/ get premium link, maka anda bisa mendownloadnya dengan kecepatan maksimal layaknya premium user.
+
+Anda bisa mencari berbagai macam situs yang menyediakan layanan leech rapidshare dengan mengetikkan “rapid leech“, atau “rapidshare leecher” , atau “rapidshare
+leech” di search engine google. Namun karena rata – rata situs leech rapidshare ini tidak bertahan lama, maka anda harus rajin – rajin mencari situs leech
+yang masih aktif dan bisa digunakan. Salah satu situs leech yang saat ini masih aktif dan bisa digunakan misalnya adalah 
+http://www.nbe-media.com/download/
+ yang bisa anda gunakan untuk download file rapidshare hingga 150 mb.
+
+Situs leech ini pun terkadang membatasi anda untuk mendownload beberapa file saja dalam jangka waktu tertentu, namun tentunya anda bisa mengakali situs
+leech ini dengan menggunakan proxy :P 
+
+2. Menghilangkan waiting time rapidshare yang membosankan
+
+Memang trik berikut ini adalah trik lama yang kami temukan dari situs sebelah, namun tidak ada salahnya anda mencobanya. Caranya adalah silahkan anda paste
+link download rapidshare di browser mozilla firefox anda. Setelah itu pilih free user. Saat muncul detik waiting time hitungan mundur, paste kan kode “ javascript:alert(c=0) ”
+(tanpa tanda kutip) ke browser anda. Jika anda berhasil maka waiting time akan langsung 0 dan akan langsung keluar tombol download file anda. Beberapa
+kali kami mencoba trik ini, beberapa kali pula kami berhasil dan beberapa kali pula trik ini gagal. namun apa salahnya untuk mencoba :) 
+
+3. Mendownload banyak file tanpa harus menunggu jeda waktu yang membosankan antar download
+
+Trik 1
+
+Jika kita telah mendownload file dan ingin mendownload lagi, maka biasanya rapidshare akan memblock dan memberi informasi bahwa kita harus menunggu beberapa
+menit sebelum mendownload lagi. Hal ini dikarenakan oleh karena IP kita telah tercatat oleh rapidshare. Hal itu bisa kita hinfari dengan cara berikut ini
+:
+
+1. Copy link rapidshare yang ingin anda download
+
+2. Klik Start > Run > dan ketik CMD
+
+3. setelah muncul command prompt, ketikkan satu per satu perintah berikut ini :
+
+     ipconfig / flushdns
+
+     ipconfig / release
+
+     ipconfig / renew
+
+     exit
+
+3. buka browser dan clear cache dan cookiesnya
+
+4. Paste kan link rapidshare tadi dan silahkan download lagi sepuasnya.
+
+5. Ulangi trik ini jika anda ingin mendownload file lagi dari rapidshare tanpa harus menunggu jeda waktu antar download. 
+
+alternatif :
+
+selain perintah diatas, anda juga bisa menggunakan perintah berikut ini dengan langkah – langkah yang sama seperti di atas :
+
+@echo off
+echo ipconfig /flushdns
+ipconfig /flushdns
+echo ipconfig /release
+ipconfig /release
+echo ipconfig /renew
+ipconfig /renew
+exit 
+
+Catatan :
+
+1. Trik ini hanya berlaku untuk pengguna dynamic IP semisal speedy paket 50 jam atau paket 1 GB, dan tidak bisa digunakan untuk pengguna static IP semisal
+speedy unlimited
+
+2. Perintah ipconfig / flushdns digunakan untuk membersihkan cookies IP public yang tercatat di router / ISP anda
+
+3. Perintah ipconfig / release digunakan untuk melepas penggunaan ip public anda
+
+4. Perintah ipconfig / renew digunakan untuk menggunakan kembali ip public yang nantinya akan dikira server menjadi ip yang berbeda. 
+
+Trik 2 
+
+Menggunakan proxy gratisan
+
+1. Anda bisa menggunakan proxy gratisan yang bisa anda dapatkan di 
+proxy4free
+
+2. Anda pilih salah satu proxy dan port yang ingin anda gunakan
+
+3. Buka mozilla > klik tools > options > pada tab advance > klik subtab network > klik setting
+
+4. Ubah no proxy menjadi manual proxy configuration dan masukkan proxy beserta port nya di tempat yang telah disediakan
+
+5. centang tanda “use this proxy server for all protokols”
+
+6. Klik ok, kemudian clear cache dan cookies dan silahkan anda download lagi. Anda harus berganti – ganti proxy setiap kali download jika anda tidak ingin
+menunggu jeda waktu antar download yang begitu lama dan membosankan 
+
+4. Mengakali di blocknya situs rapidshare di kantor atau lingkungan anda.
+
+Rapidshare yang merupakan situs file sharing terbesar dan terlengkap membuat terkadang rapidshare di block di tempat – tempat umum untuk menghemat bandwidth
+dan mencegah penyedotan bandwidth karena download dari rapidshare. Tempat – tempat yang biasanya memblock situs rapidshare antara lain kantor, lokasi pendidikan
+seperti sekolah maupun kampus serta lokasi – lokasi umum lainnya.
+
+Jika tempat berinternet anda merupakan tempat yang termasuk memblokir akses ke situs rapidshare, jangan khawatir karena ada trik khusus untuk mengatasi
+dan mengakalinya. Berikut ini akan kami jelaskan trik tersebut kepada anda :
+
+1. Buka Browser mozilla firefox anda.
+
+2. Download dan install add on download rapidshare@office di:
+https://addons.mozilla.org/en-US/firefox/downloads/file/42106/download_rapidshare___office-1.1.2-fx.xpi
+
+3. untuk proses download dan install add on tersebut maka anda diharuskan register di situs resmi mozilla terlebih dahulu, namun anda tidak perlu khawatir
+karena proses registrasinya sangat mudah dan tentu saja Gratis :)
+
+4. Setelah anda install add on tersebut, maka anda sudah bisa surfing ke situs rapidshare yang telah di block oleh administrator jaringan anda.

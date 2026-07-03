@@ -1,0 +1,107 @@
+DAMPAK RADIASI PONSEL BAGI KESEHATAN MANUSIA 
+ 
+ Ponsel merupakan perlengkapan elektronik yang selalu menemani kita kemanapun kita pergi. Tahukah anda, efek samping dari sinyal ponsel anda? Berbagai macam
+ tips sudah kita ketahui bersama seperti gunakanlah handphone pada kuping sebelah kiri ketimbang sebelah kanan dan lainnya.
+ Energi Radiasi dari Ponsel
+ s1600/radiasi-handphone-berbahaya
+ Pancaran gelombang elektromagnetik dari ponsel memiliki frekuensi antara 450 – 1800 MHz, yaitu termasuk dalam daerah gelombang mikro. menurut perhitungan
+ menunjukkan bahwa quantum energi yang ditimbulkan oleh radiasi elektromagnetik ponsel, secara kuantitas relatif masih kecil karena hanya berkisar sepersejuta
+ elektron Volt. Namun kalau jarak sumber radiasi dengan materi, yaitu jarak antara ponsel dengan kepala (khususnya telinga) diperhitungkan, maka dampak
+ radiasi elektromagnetik yang dipancarkan oleh ponsel tidak boleh diabaikan begitu saja. Alasannya adalah karena intensitas radiasi elektromagnetik yang
+ diterima oleh materi (kepala khusus bagian telinga), akan berbanding terbalik dengan kuadrat jarak, artinya makin dekat dengan sumber radiasi (ponsel)
+ akan makin besar radiasi yang diterima. Persoalan akan lebih menarik lagi, kalau waktu kontak atau waktu berbicara melalui ponsel diperhitungkan, maka
+ akumulasi dampak radiasi akibat pemakaian ponsel perlu dicermati lebih jauh lagi.
+ 
+ Dampak Radiasi Ponsel pada Kesehatan
+ s1600/hp
+ Ponsel menggunakan gelombang elektromagnetik dalam mengirim dan menerima pesan. Gelombang elektromagnetik ini dapat menyebabkan pemanasan pada jaringan
+ tubuh. Jaringan tubuh dipanaskan oleh rotasi dari molekul polar yang disebabkan oleh medan elektromagnetik. Pada saat seseorang sedang menelepon dengan
+ ponsel, efek pemanasan ini akan terjadi pada permukaan kepala dan mengakibatkan kenaikan suhu. Otak memiliki kemampuan untuk membuang kelebihan panas melalui
+ sirkulasi darah. Namun, kornea mata tidak memiliki pengaturan suhu dan dari percobaan pada kelinci, ditemukan bahwa radiasi ponsel dapat menyebabkan katarak.
+ Pengamatan lebih jauh mengenai dampak radiasi elektromagnetik ponsel terhadap tubuh manusia, ternyata mempunyai kemiripan dengan dampak radiasi elektromagnetik
+ yang ditimbulkan oleh radar. Dampak tersebut adalah kemampuan radar mengagitasi molekul air yang ada dalam tubuh manusia. Sel-sel yang terdapat dalam tubuh
+ manusia sebagian besar mengandung air. Agitasi ditimbulkan oleh radiasi elektromagnetik. Kalau intensitas radiasi elektromagnetiknya cukup kuat, maka molekul-molekul
+ air terionisasi, dampak yang ditimbulkan mirip dengan akibat yang ditimbulkan oleh radiasi nuklir. Peristiwa agitasi oleh gelombang mikro yang perlu diperhatikan
+ adalah yang berdaya antara : 4 mW/cm2 ~ 30 mW/cm2. Agitasi bisa menaikkan suhu molekul air yang ada di dalam sel-sel tubuh manusia dan ini dapat berpengaruh
+ terhadap kerja susunan syaraf, kerja kelenjar dan hormon serta berpengaruh terhadap psikologis manusia. Hal-hal inilah yang kemungkinan diduga sebagai
+ penyebab timbulnya penyakit Alzheimer atau kepikunan dini.
+ Penelitian ini dilakukan oleh 12 lembaga reset, 7 diantaranya ada di Eropa selama 4 tahun. 1996, Universitas of Washington, Seattle menemukan bahwa EMR
+ dalam bentuk energi gelombang radio rendah terbukt bisa merusak DNA. Kelompok risetb Jerman, Verum mencoba mempelajari efek radiai HP terhadap sel-sel
+ tubuh manusia. Hasilnya sel-sel tubuh yang terkena paparan gelombang elektromagnetik seperti pada HP mengalami kerusakan yang signifikan. Bahkan mutasi
+ sel-sel ini bias menjadi penyebab timbulnya kanker. Pancaran radiasi yang digunakan dalam penelitian berada pada level 0,3-2 watt/kg, sementara pada HP
+ memancarkan sinyal radio atau SAR (Spesifik Absortion Rate) yang berada pada level 2 watt/kg. Beberapa akibat buruk yang biasa terjadi pada tubuh manusia
+ menurut sejumlah penelitian antara lain meningkatkan resiko terkena tumor telinga , kanker otak, berpengaruh buruk pada jaringan otak, mengakibatkan meningioma,
+ neurioma akustik, acoustic melanoma dan kanker ludah.
+ Sebenarnya semua handphone yang beredar masih bias dkategorikan “aman” karena tingkat SAR-nya masih dibawah 1,6 watt/kg. Meskipun demikian ada beberapa
+ orang yang merasa agak pusing atau telinganya panas setelah menggunakan handphone-handphone yang dikategorikan “aman” tersebut. Jadi yang betul-betul aman
+ (bukan sekedar aman saja) adalah tingkat radasinya dibawah 1 watt/kg. Maka dari itu untuk memisahkan yang “aman” dan yang “betul-betul aman”, dibuatlah
+ tabel dibawah ini. Untuk lebih jelasnya lihat pengaruh posisi antenna terhadap resiko kanker otak.
+ Beberapa institusi juga menyatakan bahwa radiasi dari penggunan HP tidak berbahaya. Dan memang radiasi HP tersebut, yang tergolong gelombang RF, tidak
+ cukup berbahaya. Tapi bukan berarti kemungkinan adanya efek samping tidak ada. Radiasi RF pada level tinggi dapat merusak jaringan tubuh. Radiasi RF punya
+ kemampuan untuk memanaskan jaringan tubuh seperti oven microwave memanaskan makanan. Dan radiasi tersebut dapat merusak jaringan tubuh, karena tubuh kita
+ tidak diperlengkapi untuk mengantisipasi sejumlah panas berlebih akibat radiasi RF. Penelitian lain menunjukkan radiasi non-ionisasi (termasuk gelombang
+ RF) menimbulkan efek jangka panjang.
+ Sungguh tragis mendapati bahwa handphone (HP) yang setiap hari kita pakai ternyata memiliki radiasi yang cukup mematikan dalam jangka panjang kita tidak
+ berhati-hati menggunakannya. Yang juga mengejutkan adalah radiasi HP ternyata juga bias dipakai untuk mematangkan sebutir telur seperti microwave.
+ Untuk membuktikannya, dibutuhkan:
+
+ • 1 butir telur dan 2 HP. Telur diletakkan di tengah-tengah kedua HP.
+ • 65 menit percakapan ke 2 HP tersebut.
+ • Buktikan!!! Telur tersebut telah matang dan siap dimakan. Otak kita jg akan menjadi matang bila terus menerus ditempelkan pada HP. Otak dan telur sama-sama
+ mengandung jumlah air dan protein.
+ • Mulailah panggilan antara kedua HP selama kurang lebih 65 menit
+ • 15 menit tidak terjadi apa-apa
+ • Setelah 25 menit telur mulai hangat, setelah 45 menit, buktikan sendiri!
+ 
+ Pada HP terdapat istilah transmitter yang mengubah suara menjadi gelombang sinusoidal kontinu yang kemudian dipancarkan keluar melalui antenna dan gelombang
+ ini berfluktuasi melalui udara. Gelombang RF(radio frequency) inilah yang menimbulkan radiasi elektromagnetik.
+ Berikut beberapa penyakit dan kelainan yang berpotensi timbul karena radiasi HP:
+ 1. Kanker
+ 2. Tumor otak
+ 3. Alzheimer
+ 4. Parkinson
+ 5. Fatigue (terlalu capai)
+ 6. Sakit kepala
+ Penelitian yang berbeda menghasilkan hasil yang berbeda. Ada yang menyatakan radiasi HP lebih banyak menyebabkan kanker dan kelainan. Ada yang menyatakan
+ bahwa radiasi HP tidak berhubungan dengan kanker. Terlepas dari mana yang benar atau salah tentu kita sebaiknya perlu untuk bersikap waspada dan mengantisipasi.
+ Beberapa pengguna ponsel telah melaporkan bahwa mereka merasakan berbagai gejala saat menggunakan atau setelah penggunaan ponsel, yaitu panas dan kesemutan
+ pada kulit kepala, kelelahan, gangguan tidur, pusing, sakit kepala, malaise, dan takikardiak(jantung berdebar-debar). Laporan ini sedang diteliti penyebabnya,
+ apakah benar karena radiasi ponsel atau karena stres.
+ Berbagai percobaan telah dilakukan oleh para ahli untuk mengatahui pengaruh radiasi ponsel bagi kesehatan. Pada penggunaan jangka pendek, radiasi ponsel
+ memang tidak menyebabkan penyakit yang berarti. Tetapi pada penggunaan jangka panjang, radiasi ponsel dapat memicu penyakit acoustic neuroma (sejenis tumor
+ otak). Dr. Lennart Hardell, seorang peneliti Swedia, mengemukakan bahwa penggunaan ponsel selama satu jam per hari dalam kurun waktu sepuluh tahun dapat
+ meningkatkan resiko terkena tumor otak.
+ Penelitian mengenai pengaruh gelombang mikro terhadap tubuh manusia menyatakan bahwa untuk daya sampai dengan 10 mW/cm2 masih termasuk dalam nilai ambang
+ batas aman. Nilai ambang batas aman sebesar 10 mW/cm2 ini berlaku di Amerika, sedangkan untuk negara-negara lain belum dicapai kata sepakat berapa sebenarnya
+ nilai ambang batas aman tersebut. Sebagai contoh, Rusia menetapkan nilai ambang batas aman adalah 0,01 mW/cm2, jauh lebih kecil (1/1000 nya) nilai ambang
+ batas aman yang ditetapkan oleh Amerika. Jadi mengenai penetapan nilai ambang batas aman masih perlu diteliti lebih jauh lagi, demi keselamatan pemakai
+ gelombang mikro termasuk pula terhadap pemakaian ponsel. 
+ HP Lebih Merusak Pada Otak Anak-anak
+ Jauhkan HP dari anak-anak karena otak mereka yang masih muda sangat sensitif terhadap radiasi HP jika terkena cukup lama. Terlebih lagi bayi jauh lebih
+ sensitif lagi bahkan beberapa tidak bisa menahannya.
+ Departemen kesehatan masyarakat Toronto telah menasehatkan para remaja dan anak-anak kecil untuk membatasi penggunaan telpon selular mereka, dalam rangka
+ menghindari resiko kesehatan yang cukup potensial. Ini merupakan kebijakan yang pertama di Kanada.
+ Para pejabat sudah memperingatkan bahwa oleh karena adanya efek samping dari radiasi frekwensi radio, anak-anak di bawah umur delapan tahun seharusnya
+ menggunakan telepon selular hanya dalam keadaan darurat, dan para remaja perlu membatasi panggilan untuk kurang dari 10 menit.
+ Selama bertahun-tahun, kebanyakan para pejabat kesehatan pemerintah kurang peduli terhadap segala resiko yang ada. Tetapi dengan adanya beberapa penelitian,
+ suatu pola mulai terlihat bahwa orang-orang yang menggunakan telepon selular mereka untuk suatu periode waktu yang lama berada pada resiko lebih besar
+ terhadap kemungkinan terkena tumor otak tertentu.
+ Beresiko Melahirkan Anak Hiperaktif
+ Wanita yang menggunakan HP ketika hamil memiliki kecenderungan bakal melahirkan anak-anak dengan masalah tingkah laku, berdasarkan suatu studi terhadap
+ lebih dari 13.000 anak-anak.
+ Wanita hamil yang memakai HP yang meskipun hanya 2 atau 3 kali dalam sehari, cukup untuk menimbulkan resiko bayi mereka terkena penyakit hiperaktif dan
+ bisa mengalami kesulitan dalam pemahaman/proses belajar, emosi dan sosialisasi anak pada saat sekolah.
+ Hasil di atas justru lebih beresiko lagi apabila sang anak sendiri juga menggunakan HP sebelum berusia 7 tahun.
+ Tips Mengurangi / Menghindari Radiasi Ponsel
+ Disamping itu, secara ringkas ada beberapa tips yang perlu Anda perhatikan untuk mengurangi atau terhindar dari bahaya radiasi elektromagnet:
+ • Jangan memakai HP ketika hamil dan jangan ijinkan anak Anda memakainya.
+ • Batasi lama penggunaan HP Anda atau penggunaan telepon tanpa kabel lainnya.
+ • Gunakan headset dengan kabel untuk mengurangi efek radiasi HP karena menjauhkan HP dari kepala Anda. Hindarilah penggunaan bluetooth.
+ • Kurangi diri Anda terkena paparan langsung dari area transmisi WiFi (Hotspot Area). Cari tahu dimana lokasi WiFi dan usahakan untuk menjauh darinya.
+ • Jika Anda memiliki telepon kabel, jangan memakai yang melebihi 900 MHz, karena telepon kabel Gigaherts akan terus menerus memancarkan gelombang radio
+ tinggi 24/7.
+ • Gunakan speakerphone daripada langsung mendekatkan HP ke telinga Anda. Ini membantu untuk menjauhkan efek radiasi langsung antara otak dengan HP.
+ • Batasi penggunaan HP di dalam gedung karena HP akan memancarkan lebih banyak gelombang di dalam gedung dibandingkan di luar.
+ • Pakai HP pada saat bar transmisi atau penerimaan signal baik. Ketika transmisi jelek, HP Anda akan bekerja lebih keras untuk menangkap transmisi dengan
+ jelas.
+ • Berhati-hatilah dalam meletakkan HP Anda, karena radiasi berefek didekat ia memancar.
